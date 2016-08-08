@@ -1,0 +1,46 @@
+_repo: The-Book-of-Dreams-and-Ghosts_12621
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: 'It has been known for some time that Mr. Lang has added ghosts to his
+  hobbies. In the volume before us, " The Book of Dreams and Ghosts,'''' Mr. Lang
+  offers a large collection of ghost stories old and new, and his opinions on "appearances."
+  As far as we can gather Mr. Lang''s attitude from these pages, which have much of
+  the vagueness of expression that goes with memoirs of the supernatural, he disbelieves
+  in traditional ghosts, the ghosts that do things-but wishes it were otherwise. Like
+  all persons of poetical or romantic temperament, he would prefer to believe in them.
+  They would make life so much more interesting and exciting. This book is annotated
+  with a rare extensive biographical sketch of the author, Andrew Lang, written by
+  Sir Edmund Gosse, CB, a contemporary poet and writer. From the contents: The Dog
+  Fanti Mark Twain''s Story The Pig In The Dining-Room The Mignonette The Lost Cheque
+  The Ducks'' Eggs The Lost Key The Lost Securities The Arrears Of Teind The Two Curmas
+  The Assyrian Priest The Knot In The Shutter Queen Mary''s Jewels The Deathbed Dream
+  Of Mr. Perceval''s Murder The Rattlesnake The Red Lamp The Scar In The Moustache
+  The Coral Sprigs The Satin Slippers The Dead Shopman Story Of The Diplomatist Under
+  The Lamp The Cow With The Bell The Deathbed Of Louis Xiv. The Old Family Coach Riding
+  Home From Mess The Bright Scar The Vision And The Portrait The Restraining Hand
+  The Benedictine''s Voices The Man At The Lift The Wraith Of The Czarina An "Astral
+  Body" In Tavistock Place The Wynyard Wraith Lord Brougham''s Story The Dying Mother
+  The Vision Of The Bride ... and much more.'
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12621'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dreams'
+- !lcc 'BF'
+- !lcsh 'Ghosts'
+- GITenberg
+title: The Book of Dreams and Ghosts
+url: http://www.gutenberg.org/ebooks/12621
