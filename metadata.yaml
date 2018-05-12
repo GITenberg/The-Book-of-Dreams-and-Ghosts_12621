@@ -1,5 +1,8 @@
 _repo: The-Book-of-Dreams-and-Ghosts_12621
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lang, Andrew
@@ -29,6 +32,8 @@ description: 'It has been known for some time that Mr. Lang has added ghosts to 
   The Benedictine''s Voices The Man At The Lift The Wraith Of The Czarina An "Astral
   Body" In Tavistock Place The Wynyard Wraith Lord Brougham''s Story The Dying Mother
   The Vision Of The Bride ... and much more.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12621#The-Book-of-Dreams-and-Ghosts
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
